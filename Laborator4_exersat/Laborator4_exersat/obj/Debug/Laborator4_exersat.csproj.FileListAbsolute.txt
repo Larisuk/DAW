@@ -1,0 +1,2 @@
+D:\Facultate\Anul II\DAW-laboratoare\Laborator4_exersat\Laborator4_exersat\obj\Debug\Laborator4_exersat.csprojAssemblyReference.cache
+D:\Facultate\Anul II\DAW-laboratoare\Laborator4_exersat\Laborator4_exersat\obj\Debug\Laborator4_exersat.csproj.CoreCompileInputs.cache
